@@ -1,0 +1,6 @@
+[package]
+name = "rust-hi5-poc"
+version = "0.0.1"
+authors = ["krishnaIndia"]
+description = "Sample POC for highfive integartion"
+readme = "README.md"
